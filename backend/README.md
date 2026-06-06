@@ -1,4 +1,4 @@
-# Distributed Log Aggregator (Batch 3)
+# Distributed Log Aggregator
 
 This backend provides a multi-service log ingestion pipeline and a visualization dashboard.
 
